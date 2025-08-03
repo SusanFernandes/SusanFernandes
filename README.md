@@ -66,3 +66,14 @@ Fr. Conceicao Rodrigues College of Engineering, Mumbai
 
 _Thanks for stopping by!_  
 If you’d like to collaborate or chat, feel free to connect ✨
+
+---
+
+### 📊 GitHub Stats & Activity
+
+![Susan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SusanFernandes&show_icons=true&theme=blue-green&hide=contribs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanFernandes&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SusanFernandes&theme=tokyonight)
+
