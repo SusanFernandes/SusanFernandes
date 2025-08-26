@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 
 - 🥇 **Winner** – Neural Nexus AI/ML Hackathon  
 - 🥈 **2nd Place** – AI for India Hackathon by Lyzr AI  
-- 🥉 **3rd Place** – National Hackathon for Agricultural Supply Chain, MIT Madras
+- 🥉 **3rd Place** – Hack2Tech Sustain, MIT Madras
+-  🥉 **Runner Up** – Sunhacks 2025, Sandip University Nashik
 - 📝 **Published Research** – *TechLib: Plagiarism-Free Project Management* at Hinweis ASIT-2024  
 - 📜 **Certifications** –  
   • AI/ML for Geodata and LIDAR – *ISRO* (2023)  
